@@ -1110,7 +1110,7 @@ a:hover {
 }
 .p-top__desc {
   background: #FAF7F2;
-  /*margin-bottom: 10rem;*/
+  margin-bottom: 10rem;
 }
 .p-top__desc__content {
   position: relative;
